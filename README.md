@@ -2,7 +2,7 @@
 Ubuntu 20 
 CUDA=11.6 or 11.7 or 11.8, GPU Memory > 20GB
 Python = 3.8
-PyTorch = 1.13.0 (official Get Started)
+PyTorch = 1.13.0 
 
 
 
