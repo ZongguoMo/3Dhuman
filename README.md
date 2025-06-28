@@ -4,4 +4,4 @@
 ![Image 2](pose.PNG)
 ## 🎥 视频展示
 
-<video src="https://github.com/user-attachments/assets/7d12b9fc-1313-44d2-92ca-7f1271ef3d80" width="600" controls></video>
+<video src="https://github.com/user-attachments/assets/91dbe191-ab7d-4463-a4c9-e0641f7d04a2" width="600" controls></video>
