@@ -3,3 +3,5 @@
 ## 📸 图片展示
 ![Image 1](comparsion.PNG)
 ![Image 2](pose.PNG)
+![Image 3](colors_loose.PNG)
+![Image 4](colors_pose.PNG)
