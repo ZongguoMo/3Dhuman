@@ -24,12 +24,12 @@
 
 <div>
   <figure style="display:inline-block; margin-right:10px; vertical-align:top;">
+    <figcaption>Comparison with SOTAs</figcaption>
     <img src="examples/comparsion.PNG" alt="图1" width="400" />
-    <figcaptionComparison with SOTAs</figcaption>
   </figure>
   <figure style="display:inline-block; vertical-align:top;">
-    <img src="examples/pose.PNG" alt="图2" width="250" />
     <figcaption>In-the-wild reconstruction challenging poses and loose cloth</figcaption>
+    <img src="examples/pose.PNG" alt="图2" width="400" />
   </figure>
 </div>
 
