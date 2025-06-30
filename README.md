@@ -21,6 +21,10 @@
   <img src="examples/c.gif" width="260" alt="Demo 3">
 </p>
 <img src="examples/comparsion.PNG" alt="Comparison with SOTAs" width="600" />
+<figure>
+  <img src="examples/comparsion.PNG" alt="Comparison with SOTAs" width="400" >
+  <figcaption>Comparison with SOTAs</figcaption>
+</figure>
 
 ## 📸 图片展示
 ![Image 1](examples/comparsion.PNG)
