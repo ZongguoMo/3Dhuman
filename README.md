@@ -24,6 +24,8 @@
 <figure>
    <figcaption>Comparison with SOTAs</figcaption>
   <img src="examples/comparsion.PNG" alt="Comparison with SOTAs" width="400" >
+  <figcaption>In-the-wild reconstruction challenging poses and loose cloth</figcaption>
+  <img src="examples/pose.PNG" alt="Comparison with SOTAs" width="400" >
 </figure>
 
 <figure>
