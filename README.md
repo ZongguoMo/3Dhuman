@@ -5,7 +5,7 @@ Python = 3.8
 PyTorch = 1.13.0 
 
 
-
+Loose clothes video demo
 <p align="center">
   <img src="examples/output.gif" width="160" alt="Demo 1">
   <img src="examples/output4.gif" width="160" alt="Demo 3">
@@ -13,7 +13,7 @@ PyTorch = 1.13.0
   <img src="examples/b.gif" width="160" alt="Demo 2">
   <img src="examples/a.gif" width="160" alt="Demo 2">
 </p>
-
+Challenging exercise poses video demo
 <p align="center">
   <img src="examples/d.gif" width="260" alt="Demo 1">
   <img src="examples/output3.gif" width="260" alt="Demo 3">
