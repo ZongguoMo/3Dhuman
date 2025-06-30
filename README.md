@@ -7,7 +7,7 @@ PyTorch = 1.13.0
 
 
 
-![Demo GIF](examples/output.gif) ![Demo GIF](examples/output2.gif) ![Demo GIF](examples/output4.gif) 
+![Demo GIF](examples/output.gif) ![Demo GIF](examples/b.gif) ![Demo GIF](examples/output4.gif) 
 ![Demo GIF](examples/d.gif) ![Demo GIF](examples/output3.gif) ![Demo GIF](examples/c.gif) 
 ## 📸 图片展示
 ![Image 1](examples/comparsion.PNG)
