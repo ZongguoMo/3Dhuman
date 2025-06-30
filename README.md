@@ -6,6 +6,11 @@ PyTorch = 1.13.0
 
 
 
+<p align="center">
+  <img src="examples/output.gif" width="200" alt="Demo 1">
+  <img src="examples/b.gif" width="200" alt="Demo 2">
+  <img src="examples/output4.gif" width="200" alt="Demo 3">
+</p>
 
 ![Demo GIF](examples/output.gif) ![Demo GIF](examples/b.gif) ![Demo GIF](examples/output4.gif) 
 ![Demo GIF](examples/d.gif) ![Demo GIF](examples/output3.gif) ![Demo GIF](examples/c.gif) 
