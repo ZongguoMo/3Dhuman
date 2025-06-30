@@ -4,8 +4,11 @@ CUDA=11.6 or 11.7 or 11.8, GPU Memory > 20GB
 Python = 3.8
 PyTorch = 1.13.0 
 
+<p align="center">
+  Loose clothes video demo
+</p>
 
-Loose clothes video demo
+
 <p align="center">
   <img src="examples/output.gif" width="160" alt="Demo 1">
   <img src="examples/output4.gif" width="160" alt="Demo 3">
@@ -13,7 +16,11 @@ Loose clothes video demo
   <img src="examples/b.gif" width="160" alt="Demo 2">
   <img src="examples/a.gif" width="160" alt="Demo 2">
 </p>
-Challenging exercise poses video demo
+
+<p align="center">
+  Challenging exercise poses video demo
+</p>
+
 <p align="center">
   <img src="examples/d.gif" width="260" alt="Demo 1">
   <img src="examples/output3.gif" width="260" alt="Demo 3">
