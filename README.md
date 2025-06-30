@@ -1,9 +1,3 @@
-# 3Dhuman
-Ubuntu 20 
-CUDA=11.6 or 11.7 or 11.8, GPU Memory > 20GB
-Python = 3.8
-PyTorch = 1.13.0 
-
 <p align="center">
   Loose clothes video demo
 </p>
@@ -27,8 +21,7 @@ PyTorch = 1.13.0
   <img src="examples/c.gif" width="260" alt="Demo 3">
 </p>
 
-![Demo GIF](examples/output.gif) ![Demo GIF](examples/b.gif) ![Demo GIF](examples/output4.gif) 
-![Demo GIF](examples/d.gif) ![Demo GIF](examples/output3.gif) ![Demo GIF](examples/c.gif) 
+
 ## 📸 图片展示
 ![Image 1](examples/comparsion.PNG)
 ![Image 2](examples/pose.PNG)
