@@ -20,9 +20,7 @@
   <img src="examples/output3.gif" width="260" alt="Demo 3">
   <img src="examples/c.gif" width="260" alt="Demo 3">
 </p>
-<p align="center">
-  <img src="examples/comparsion.PNG" width="600" alt="Demo 1">
-</p>
+<img src="examples/comparsion.PNG" alt="Comparison with SOTAs" width="200" />
 
 ## 📸 图片展示
 ![Image 1](examples/comparsion.PNG)
