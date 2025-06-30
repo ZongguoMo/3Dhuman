@@ -21,6 +21,20 @@
   <img src="examples/c.gif" width="260" alt="Demo 3">
 </p>
 
+
+<div>
+  <figure style="display:inline-block; margin-right:10px; vertical-align:top;">
+    <img src="examples/comparsion.PNG" alt="图1" width="400" />
+    <figcaptionComparison with SOTAs</figcaption>
+  </figure>
+  <figure style="display:inline-block; vertical-align:top;">
+    <img src="examples/pose.PNG" alt="图2" width="250" />
+    <figcaption>In-the-wild reconstruction challenging poses and loose cloth</figcaption>
+  </figure>
+</div>
+
+
+
 <figure>
    <figcaption>Comparison with SOTAs</figcaption>
   <img src="examples/comparsion.PNG" alt="Comparison with SOTAs" width="400" >
