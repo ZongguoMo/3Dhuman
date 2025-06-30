@@ -37,6 +37,6 @@
   <img src="examples/colors_pose.PNG" alt="图2" width="400" style="vertical-align:top;" />
 </p>
 <p>
- In-the-wild reconstruction loose cloth with textured colors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In-the-wild reconstruction challenging poses with textured colors
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In-the-wild reconstruction loose cloth and challenging poses with textured colors
 </p>
 
