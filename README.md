@@ -23,7 +23,7 @@
 
 
 <p>
-  <img src="examples/comparsion.PNG" alt="图1" width="400" style="vertical-align:top;" />
+  <img src="examples/comparsion.PNG" alt="图1" width="500" style="vertical-align:top;" />
 
   <img src="examples/opt.PNG" alt="图2" width="400" style="vertical-align:top;" />
 </p>
