@@ -26,6 +26,11 @@
   <img src="examples/comparsion.PNG" alt="Comparison with SOTAs" width="400" >
 </figure>
 
+<figure>
+   <figcaption>In-the-wild reconstruction challenging poses and loose cloth</figcaption>
+  <img src="examples/pose.PNG" alt="Comparison with SOTAs" width="400" >
+</figure>
+
 ## 📸 图片展示
 ![Image 1](examples/comparsion.PNG)
 ![Image 2](examples/pose.PNG)
