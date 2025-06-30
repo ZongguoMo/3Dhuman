@@ -21,7 +21,7 @@
   <img src="examples/c.gif" width="260" alt="Demo 3">
 </p>
 <p align="center">
-  <img src="examples/comparsion.PNG" width="100" alt="Demo 1">
+  <img src="examples/comparsion.PNG" width="600" alt="Demo 1">
 </p>
 
 ## 📸 图片展示
